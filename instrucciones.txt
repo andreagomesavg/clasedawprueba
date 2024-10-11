@@ -1,0 +1,5 @@
+git init
+git config user.name
+git remote add origin "https://github.com/andreagomesavg/clasedawprueba.git"
+clear
+git status
